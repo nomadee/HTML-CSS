@@ -1,0 +1,74 @@
+ <hr> = linha horizontal
+<p> = inicio de paragrafo
+<br> = quebra de linha
+<h1> = titulo 
+< > = abertura de tag
+</> = fechamento de tag
+ " = sempre usar aspas duplas
+<!- = inicio de comentarios
+<div class="muda cor" style="color:chocolate"> = atributo para mudança de cor no texto.
+<div class: para aplicar estilo css
+-class
+-contenteditable
+-data-*
+-hidden
+-id
+-style
+-tabindex(para uso da tecla tab para selecionar a proxima opçao)
+-title
+<a> = link
+&nbsp;= espaço 
+target="_blank"= link em uma nova guia 
+../ = busca em outro diretorio(pasta)
+<link: favicon( na parte head da pagina)= para adicionar icone de favoritos
+<strong> = texto em negrito
+<em> = italico 
+<mark> = marca texto
+<ins> = sublinhar
+<sup> = numeros elevados 
+<sub> = numeros rebaixados
+<code> = melhor definicao das letras 
+<pre> = organiza a escrita(codigos da tela)
+<ol> + <li> = lista ordenada com numeraçao de frase
+<ul> = <li> = lista nao ordenada(sem ordem de prioridade)
+no link. type="application/pdf"> = comando para download em um link 
+<style>= a tag vai dentro <head> e dentro da tag <style> adicionar seletores de acordo com a ordem do codigo
+exemplo: body {background-color: cor desejada}
+*{} =  Esse seletor representa todos os elementos serão afetados pelas definições de estilo ali colocadas. 
+<link rel="stylesheet" href="style.css"> = esse link dentro da parte <head> estará todo o
+estilo CSS da pagina estando em um arquivo diferente do HTML.
+<main> = conteudo principal. a alteraçao é aplicado somente no conteúdo principal destacando em um quadro (dentro da tag main)
+font-family = fonte da letra 
+text-align: justify; = corrigi os paragrafos
+background-image: linear-gradiente(aqui escolher a direcao do degrade) = degrade no background da pagina.
+width: 600px; = define a largura do conteudo main
+padding: 10px; = enquadramento do texto
+margin: auto; = centraliza o texto
+border-radius: 10px = arredonda as bordas do quadro
+text-align: = center; = centraliza o texto
+fonte-size: = tamanho da fonte. sempre usar px ou em para definir o tamanho.
+style="background-color: azul> = tag que altera a cor de fundo da pagina.
+style="color: red;"> = altera a cor das letras.
+font-family: arial = muda a fonte
+style="text-align: justify;" = alinha os paragrafos
+font-weight: = espessura da fonte
+@charset "UTF-8"; = usar sempre essa regra em css. Deve ser o primeiro elemento na folha de estilo
+# = id em css
+. = class em css
+width = largura
+height = altura
+div:hover = ao passar o mouse tem uma alteraçao de cor
+div > p = altera somente o paragrafo dentro da div
+display: none; = esconde o texto que esta inserido no paragrafo desejado
+display:block; = mostra o texto escrito
+margin-auto = centraliza a caixa.
+shorthand = usado para simplificar os valores...(ex: border: 10px solid red) altura, estilo e cor em uma unica linha.
+display: = altera as caracteristicas normal de um elemento
+> = seletor filho em css
+
+
+ 
+
+
+
+
